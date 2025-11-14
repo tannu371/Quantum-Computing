@@ -1,0 +1,6 @@
+qiskit
+qiskit-aer
+qiskit-machine-learning
+qiskit.utils
+scikit-learn
+matplotlib
